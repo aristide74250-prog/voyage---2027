@@ -1,0 +1,6 @@
+{
+  "name": "Tian Shan 2027 – Circuit Kazakhstan & Kirghizistan",
+  "description": "Carnet de voyage de 21 jours entre Almaty et Bishkek : désert de l'Ili, canyons de Charyn, lacs Kolsai et Kaindy, yourtes de Song-Köl et caravansérail de Tash Rabat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
